@@ -473,7 +473,8 @@ a{
 }
 
 .project-skill{
-    width: 40px;
+    width: 10px;
+    height: 10px;
 }
 
 .project-heading{
@@ -493,18 +494,14 @@ a{
 }
 
 #project1{
-    background-image: url(./images/projects/Project1.png);
+    background-image: url(./images/projects/Screenshot\ 2023-09-24\ 122818.png)
 }
 #project2{
     margin-left: 120px;
-    background-image: url(./images/projects/Project2.png);
+    background-image: url(./images/projects/Screenshot\ 2023-09-24\ 115106.png);
 }
 #project3{
-    background-image: url(./images/projects/Project3.png);
-}
-#project4{
-    margin-left: 120px;
-    background-image: url(./images/projects/Project4.png);
+    background-image: url(./images/projects/Screenshot\ 2023-09-24\ 114723.png);
 }
 
 @media (maxwidth:1300px) {
