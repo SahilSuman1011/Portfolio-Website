@@ -81,10 +81,12 @@
 }
 
 .logotext{
-    margin-left:-6.8rem;
-    font-size: 32px;
+    margin-left:-4.8rem;
+    font-size: 50px;
+    font-weight: 900;
     align-items: baseline;
     justify-content: baseline;
+    font-family
 }
 
 .nav-items div{
@@ -732,7 +734,8 @@ footer{
     bottom: 0;
     color: #535C87;
     user-select: none;
-    font-size: 5em;
+    font-size: 6em;
+    font-weight: bold;
 }
 
 .link-wrapper{
